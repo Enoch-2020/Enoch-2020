@@ -1,86 +1,97 @@
-# Hi there 👋, I'm Oluwaseyi Kazeem Kabiru
+<h1 align="center">Hi 👋, I'm Oluwaseyi Kazeem Kabiru</h1>
 
-## 🚀 About Me
+<h3 align="center">
+Full Stack Developer | WordPress Developer | Tech Educator
+</h3>
 
-I'm a passionate Full Stack Web Developer, WordPress Developer, and Tech Educator with over 10 years of experience in website development, design, CMS management, and digital solutions. I enjoy building scalable web applications, creating custom WordPress solutions, and mentoring aspiring developers.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;WordPress+Developer;Frontend+Specialist;PHP+Developer;ReactJS+Developer;Tech+Educator;Open+to+Collaboration" alt="Typing SVG" />
+</p>
 
-- 🔭 Currently working on web development projects and WordPress solutions
-- 🌱 Currently expanding my knowledge in Advanced Computer Science and Backend Development
-- 👨‍🏫 Web Development Lecturer and Technical Trainer
-- 👯 Open to collaborating on Web Development, WordPress, and Open Source Projects
-- 💬 Ask me about Frontend Development, WordPress, PHP, ReactJS, and Website Management
-- ⚡ Fun fact: I enjoy teaching others and turning ideas into functional digital solutions
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Enoch-2020&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer and WordPress Expert with over 10 years of experience in web development, website management, technical consultancy, and digital solutions.
+
+I specialize in building modern websites, custom WordPress solutions, and mentoring aspiring developers through practical training.
+
+- 🔭 Currently working on Web Development Projects
+- 🌱 Learning Advanced Computer Science Concepts
+- 👨‍🏫 Web Development Lecturer & Mentor
+- 👯 Looking to collaborate on Open Source Projects
+- 💬 Ask me about PHP, ReactJS, WordPress, JavaScript, HTML & CSS
+- ⚡ Fun Fact: I love teaching and sharing knowledge with others
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- ReactJS
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react" />
+</p>
 
 ### Backend
-- PHP
-- MySQL
 
-### CMS & Web Management
-- WordPress
-- Elementor
-- WordPress Plugin Development
-- Website Maintenance & Management
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+### CMS & Website Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
 ### Design Tools
-- Adobe Photoshop
-- Adobe Illustrator
-- CorelDRAW
+
+<p>
+<img src="https://skillicons.dev/icons?i=photoshop" />
+</p>
 
 ---
 
 ## 💼 Professional Experience
 
-### Freelancer (2014 - Present)
-- Full Stack Web Development
-- Frontend & Backend Development
-- Website Management
-- Graphics Design
+### 👨‍💻 Freelancer (2014 - Present)
+
+- Full Stack Development
+- Website Design & Development
+- WordPress Development
 - Technical Consultancy
+- Website Maintenance
+- Graphics Design
 - Data Entry Solutions
 
-### Web Development Lecturer
-- Taught HTML, CSS, Bootstrap, and JavaScript
-- Trained students in practical web development skills
-- Guided learners in WordPress website design and management
+### 👨‍🏫 Web Development Lecturer
 
-### Lead Website Developer
-- Developed websites from scratch
-- Managed and maintained web platforms
-- Debugged website issues
-- Developed custom WordPress plugins
+#### EMBOLD LAB
 
----
+- Taught HTML5, CSS3, Bootstrap, and JavaScript
+- Mentored aspiring frontend developers
+- Delivered practical coding sessions
 
-## 🎓 Education
+#### TEEVAC
 
-- Postgraduate Diploma (PGD) in Computer Science *(In View)*
-- B.Sc. Accounting
-- Frontend Development Certification
-- Backend Development Certification
-- Website Design & Management Diploma
-- Social Media Management & Digital Marketing Certification
+- Frontend Development Training
+- WordPress Website Design & Management
+- Student Skill Development Programs
 
----
+### 🏆 Lead Website Developer
 
-## 📜 Certifications
+Responsibilities:
 
-- Advanced Backend Development Certificate
-- Backend Development Certificate
-- Frontend Development Certificate
-- Website Design & Management Diploma
-- Social Media Management & Digital Marketing Certificate
-- PGD Certificate in Computer Science
+- Website Development from Scratch
+- Website Maintenance & Updates
+- Debugging and Optimization
+- WordPress Plugin Development
+- Performance Enhancement
 
 ---
 
@@ -95,27 +106,99 @@ I'm a passionate Full Stack Web Developer, WordPress Developer, and Tech Educato
 
 ---
 
-## 🌐 Areas of Expertise
+## 🎓 Education
 
-- Full Stack Development
-- Frontend Development
+### Postgraduate Diploma (Computer Science)
+
+- In View
+
+### Bachelor of Science (B.Sc)
+
+- Accounting
+
+### Professional Certifications
+
+- Advanced Backend Development
 - Backend Development
-- WordPress Development
-- WordPress Plugin Development
+- Frontend Development
 - Website Design & Management
-- Technical Training & Mentorship
-- Digital Marketing
-- Graphics Design
+- Social Media Management & Digital Marketing
 
 ---
 
-## 📫 Connect With Me
+## 📜 Certifications
 
-- Email: seyikabiru@gmail.com
-- GitHub: https://github.com/Enoch-2020
+🏅 Advanced Backend Development Certificate
+
+🏅 Backend Development Certificate
+
+🏅 Frontend Development Certificate
+
+🏅 Website Design & Management Diploma
+
+🏅 Social Media Management & Digital Marketing Certificate
+
+🏅 PGD Certificate in Computer Science
 
 ---
 
-### 💡 Motto
+## 📊 GitHub Statistics
 
-> "Building innovative digital solutions while empowering others through technology and education."
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Enoch-2020&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Enoch-2020&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Enoch-2020&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 Full Stack Web Development
+- ⚡ WordPress Plugin Development
+- 💻 ReactJS Projects
+- 🌱 Advanced Computer Science
+- 🤝 Open Source Contributions
+
+---
+
+## 🌐 Languages
+
+- English
+- Yoruba
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="mailto:seyikabiru@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Enoch-2020">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+> Building innovative digital solutions while empowering others through technology, education, and continuous learning.
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
