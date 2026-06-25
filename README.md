@@ -195,3 +195,9 @@ Responsibilities:
 > Building innovative digital solutions while empowering others through technology, education, and continuous learning.
 
 ### ⭐ Thanks for visiting my profile!
+
+## =======
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider following me and checking out my repositories.
